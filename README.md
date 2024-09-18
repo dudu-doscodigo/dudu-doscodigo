@@ -1,16 +1,81 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="pt-BR">
 
-<!--
-**dudu-doscodigo/dudu-doscodigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brooklyn Nine-Nine</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
 
-Here are some ideas to get you started:
+<body>
+    <header>
+        <h1>Mudanças Climáticas</h1>
+        <nav>
+            <ul>
+                <li><a href="#section1">O que é?</a></li>
+                <li><a href="#section2">Impactos Visuais</a></li>
+                <li><a href="#section3">Soluções e Mitigação</a></li>
+                <li><a href="#section4">Acordos Internacionais</a></li>
+            </ul>
+        </nav>
+    </header>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <section id="section1">
+        <h2>O que são Mudanças Climáticas?</h2>
+        <p>As mudanças climáticas são alterações a longo prazo nos padrões de temperatura e clima da Terra. Isso inclui o aumento da temperatura média global, mudanças nos padrões de chuva, eventos climáticos extremos mais frequentes e o aumento do nível do mar.</p>
+        <p><strong>Causas:</strong> A principal causa das mudanças climáticas atuais é a atividade humana, principalmente a queima de combustíveis fósseis, que libera grandes quantidades de gases do efeito estufa na atmosfera.</p>
+        <p><strong>Consequências:</strong> As consequências das mudanças climáticas são diversas e incluem: aumento do nível do mar, eventos climáticos extremos mais frequentes e intensos, perda de biodiversidade, escassez de água e impactos na agricultura.</p>
+    </section>
+
+    <section id="section2">
+        <h2>Impactos Visuais das Mudanças Climáticas</h2>
+        <div class="section2">
+            <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRA2eNv_JXTEPjUd34pkK75ZtqTXppt-e4rJPcfgrYWbNfjGYGC8s1hAEEyQypP" alt="Imagem ilustrando os impactos das mudanças climáticas" height="400" width="600">
+            <p>A imagem acima ilustra alguns dos impactos visuais das mudanças climáticas, como o derretimento das geleiras e o aumento do nível do mar.</p>
+        </div>
+    </section>
+
+    <section id="section3">
+        <h2>Soluções e Mitigação</h2>
+        <p>É fundamental reduzir as emissões de gases do efeito estufa para mitigar os efeitos das mudanças climáticas. Algumas soluções incluem:</p>
+        <ul>
+            <li>Transição para fontes de energia renovável</li>
+            <li>Eficiência energética</li>
+            <li>Reflorestamento</li>
+            <li>Desenvolvimento de tecnologias limpas</li>
+        </ul>
+    </section>
+
+  
+    <section id="section4">
+        <h2>Acordos Internacionais</h2>
+        <div class="section4">
+            <h3>Acordo de Paris</h3>
+            <p>O Acordo de Paris é um marco histórico na luta contra as mudanças climáticas, estabelecendo metas globais para limitar o aumento da temperatura média global.</p>
+        </div>
+    </section>
+  
+    <section id="Seção Extra">
+        <h2>Fontes e Para Saber Mais</h2>
+        <p>Para aprofundar seus conhecimentos sobre as mudanças climáticas, consulte as seguintes fontes:</p>
+        <ul>
+            <li>Painel Intergovernamental sobre Mudanças Climáticas (IPCC)</li>
+            <li>Programa das Nações Unidas para o Meio Ambiente (PNUMA)</li>
+            <li>WWF</li>
+        </ul>
+    </section>
+  
+      </section>
+      
+
+    <section id="contact">
+        <h2>Contato</h2>
+        <p> Eduardo Oliveira Silva, Nº45
+            (Lucas Rodrigues não fez nada 👍)
+        </p>
+    </section>
+
+
+</body>
+</html>
